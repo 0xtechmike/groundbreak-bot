@@ -27,7 +27,7 @@ records** such as building permits and alcohol-licence applications.
 
 ## Contact us
 
-**Email: [preribbonleads@gmail.com](mailto:preribbonleads@gmail.com)**
+**Email: [support@preribbon.com](mailto:support@preribbon.com)**
 
 Please get in touch if you'd like us to:
 
@@ -40,5 +40,5 @@ Please get in touch if you'd like us to:
 Every request carries this User-Agent:
 
 ```
-GroundbreakBot/1.0 (+https://github.com/0xtechmike/groundbreak-bot; preribbonleads@gmail.com)
+GroundbreakBot/1.0 (+https://github.com/0xtechmike/groundbreak-bot; support@preribbon.com)
 ```
